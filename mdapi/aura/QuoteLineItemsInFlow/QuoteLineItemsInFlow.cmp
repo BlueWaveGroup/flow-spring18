@@ -1,0 +1,65 @@
+<aura:component access="global" implements="lightning:availableForFlowScreens">
+        
+    <!-- 1. Attributes -->
+    <aura:attribute name="quoteLineItems" type="QuoteLineItem[]" default="[]"/>
+    <aura:attribute name="Continue_selecting_Products" type="Boolean" default="true" />
+	<!-- availableActions is provided automatically -->
+    <aura:attribute name="removeLineItem" type="String" default="" />
+
+
+	<!-- 2. Handlers -->
+    <aura:handler name="change" value="{!v.removeLineItem}" action="{!c.removeLineItem}" />
+
+
+	<!-- 3. Events -->
+    
+	<!-- 4. Methods -->
+	  
+	<!-- 5. Data Service Components -->  
+
+	<!-- 6. Layout -->
+    
+	<!-- Header with the FLow's screen;s help text visible -->
+    <c:flowHeader screenHelpText="{!v.screenHelpText}" />
+    
+    <!-- Table of Products to be added to the Quote -->
+    <table class="slds-table slds-table_bordered slds-table_cell-buffer">
+        <thead>
+            <tr class="slds-text-title_caps">
+                <th scope="col">
+                    <div class="slds-truncate" title="Product">Product</div>
+                </th>
+                <th scope="col">
+                    <div class="slds-truncate" title="Quantity">Quantity</div>
+                </th>
+                <th scope="col">
+                    <div class="slds-truncate" title="Unit Price">Unit Price</div>
+                </th>
+                <th scope="col">
+                    <div class="slds-truncate" title="Discount">Discount</div>
+                </th>
+                <th scope="col">
+                    <div class="slds-truncate" title=""></div>
+                </th>
+            </tr>
+        </thead>
+        <tbody>
+            <aura:iteration items="{!v.quoteLineItems}" var="item">
+                <c:QuoteLineItemInFlow quoteLineItem="{!item}" removeLineItem="{!v.removeLineItem}" />
+            </aura:iteration>
+        </tbody>
+    </table>
+    <!--
+    <lightning:button aura:id="Add_Product" label="Add Product"
+                      variant="brand" onclick="{!c.addProduct}" />
+	-->
+	<!-- Flow Footer that includes the buttons -->
+    <c:flowFooter availableActions="{!v.availableActions}"
+                  navigateFlowEvent="{!c.handleNavigate}"
+                  previousActionLabel="Restart"
+                  nextActionLabel="Finish"
+				  parentAction1Action="{!c.addProduct}"
+                  parentAction1Label="Add Product"
+                  />
+    
+</aura:component>

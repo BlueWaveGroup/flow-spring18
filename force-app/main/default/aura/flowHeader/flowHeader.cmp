@@ -1,0 +1,18 @@
+<aura:component access="global" implements="lightning:availableForFlowScreens">
+
+    <aura:attribute name="screenHelpText" type="String" />
+    
+    <div class="slds-p-top_medium slds-clearfix">
+        <div class="slds-float_left">
+            <!-- Display company logo --> 
+            <h2>Products Added</h2>
+        </div>
+        <div class="slds-float_right" style="position:relative;">
+            <aura:if isTrue="{! !empty(v.screenHelpText) }">
+                <!-- If the screen has help text, display an info icon in the header.
+                 On hover, display the screen's help text -->
+                <lightning:helptext content="{!v.screenHelpText}" />
+            </aura:if>
+        </div>
+    </div>
+</aura:component>

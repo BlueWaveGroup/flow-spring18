@@ -1,0 +1,4 @@
+"ID","ISDELETED","NAME","CURRENCYISOCODE","ISACTIVE","ISARCHIVED","DESCRIPTION","ISSTANDARD"
+"01s1r000000f4ypAAA","false","Standard Price Book","USD","false","false","","true"
+"01s1r000001k9AlAAI","false","Nonprofit Pricebook","USD","true","false","Nonprofit Customers","false"
+"01s1r000001k96YAAQ","false","Enterprise PriceBook","USD","true","false","Enterprise Customers","false"

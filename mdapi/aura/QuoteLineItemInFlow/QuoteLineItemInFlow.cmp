@@ -1,0 +1,37 @@
+<aura:component >
+    
+    <aura:attribute name="quoteLineItem" type="QuoteLineItem" />
+    <aura:attribute name="removeLineItem" type="String" default="" />
+    <aura:attribute name="productRecord" type="Product2" />
+    <aura:attribute name="productRecordFields" type="Product2" />
+    <aura:attribute name="productRecordError" type="String" />
+    
+    <force:recordData aura:id="productRecordCmp"
+                      recordId="{!v.quoteLineItem.Product2Id}"
+                      fields="Name"
+                      mode="VIEW"
+                      targetRecord="{!v.productRecord}"
+                      targetFields="{!v.productRecordFields}"
+                      targetError="{!v.productRecordError}" />
+
+    <aura:if isTrue="{! !empty(v.quoteLineItem.Product2Id) }">    
+        <tr>
+            <th scope="row" data-label="Opportunity Name">
+                <div class="slds-truncate" title="{!v.productRecordFields.Name}">{!v.productRecordFields.Name}</div>
+            </th>
+            <td data-label="Account Name">
+                <div class="slds-truncate" title="{!v.QuoteLineItem.Quantity}">{!v.quoteLineItem.Quantity}</div>
+            </td>
+            <td data-label="Close Date">
+                <div class="slds-truncate" title="{!v.QuoteLineItem.UnitPrice}">{!v.quoteLineItem.UnitPrice}</div>
+            </td>
+            <td data-label="Prospecting">
+                <div class="slds-truncate" title="{!v.QuoteLineItem.Discount}">{!v.quoteLineItem.Discount}</div>
+            </td>
+            <td data-label="Prospecting">
+                <a onclick="{!c.removeLineItem}">Remove</a>
+            </td>
+        </tr>
+    </aura:if>
+    
+</aura:component>

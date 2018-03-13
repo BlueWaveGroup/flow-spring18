@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Flow xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dynamicChoiceSets>
+        <name>OpportunityStagePicklist</name>
+        <dataType>Picklist</dataType>
+        <displayField xsi:nil="true"/>
+        <object xsi:nil="true"/>
+        <picklistField>StageName</picklistField>
+        <picklistObject>Opportunity</picklistObject>
+    </dynamicChoiceSets>
+    <formulas>
+        <name>today</name>
+        <dataType>Date</dataType>
+        <expression>TODAY()</expression>
+    </formulas>
+    <interviewLabel>Fast_Quote_embedded {!$Flow.CurrentDateTime}</interviewLabel>
+    <label>Fast_Quote_embedded</label>
+    <processType>Flow</processType>
+    <recordLookups>
+        <name>Account_Lookup</name>
+        <label>Account Lookup</label>
+        <locationX>21</locationX>
+        <locationY>18</locationY>
+        <assignNullValuesIfNoRecordsFound>false</assignNullValuesIfNoRecordsFound>
+        <connector>
+            <targetReference>Initial_Screen</targetReference>
+        </connector>
+        <filters>
+            <field>Id</field>
+            <operator>EqualTo</operator>
+            <value>
+                <elementReference>recordId</elementReference>
+            </value>
+        </filters>
+        <object>Account</object>
+        <outputReference>accountSObject</outputReference>
+        <queriedFields>Name</queriedFields>
+        <queriedFields>CurrencyIsoCode</queriedFields>
+    </recordLookups>
+    <screens>
+        <name>Initial_Screen</name>
+        <label>Initial Screen</label>
+        <locationX>19</locationX>
+        <locationY>104</locationY>
+        <allowBack>true</allowBack>
+        <allowFinish>true</allowFinish>
+        <allowPause>true</allowPause>
+        <fields>
+            <name>accountSObjectBanner</name>
+            <fieldText>&lt;DIV ALIGN="LEFT">&lt;FONT FACE="Arial" STYLE="font-size:12px" COLOR="#000000" LETTERSPACING="0" KERNING="0">Fast Quote for &lt;B>{!accountSObject.Name}&lt;/B>&lt;/FONT>&lt;/DIV></fieldText>
+            <fieldType>DisplayText</fieldType>
+        </fields>
+        <fields>
+            <name>CloseDate</name>
+            <dataType>Date</dataType>
+            <defaultValue>
+                <elementReference>today</elementReference>
+            </defaultValue>
+            <fieldText>Opportunity Close Date</fieldText>
+            <fieldType>InputField</fieldType>
+            <isRequired>true</isRequired>
+        </fields>
+        <fields>
+            <name>Stage</name>
+            <choiceReferences>OpportunityStagePicklist</choiceReferences>
+            <dataType>String</dataType>
+            <fieldText>Opportunity Stage</fieldText>
+            <fieldType>DropdownBox</fieldType>
+            <isRequired>false</isRequired>
+        </fields>
+    </screens>
+    <startElementReference>Account_Lookup</startElementReference>
+    <variables>
+        <name>accountSObject</name>
+        <dataType>SObject</dataType>
+        <isCollection>false</isCollection>
+        <isInput>true</isInput>
+        <isOutput>true</isOutput>
+        <objectType>Account</objectType>
+    </variables>
+    <variables>
+        <description>AccountId from embedded Lightning Page</description>
+        <name>recordId</name>
+        <dataType>String</dataType>
+        <isCollection>false</isCollection>
+        <isInput>true</isInput>
+        <isOutput>false</isOutput>
+    </variables>
+</Flow>

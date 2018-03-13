@@ -1,0 +1,11 @@
+{
+    "orgName": "Acme",
+    "country": "US",
+    "edition": "Enterprise",
+    "hasSampleData": "true",
+    "features": ["MultiCurrency", "AuthorApex"],
+    "orgPreferences": {
+      "enabled": ["IsQuoteEnabled", "S1DesktopEnabled", "ChatterEnabled"],
+      "disabled": ["IsNameSuffixEnabled"]
+    }
+  }

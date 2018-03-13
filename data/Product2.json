@@ -1,0 +1,148 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Product2",
+                "referenceId": "Product2Ref1"
+            },
+            "Name": "Spider 1 Series Laptop",
+            "ProductCode": "S1L",
+            "Description": "Intel Core i5-2520M Dual-Core 2.50GHz CPU\n4GB RAM\n250GB HDD\n14\" HD Display\n4x USB 2.0\nDVDRW\nWindows 10 Pro 64-bit",
+            "IsActive": true,
+            "Family": "Laptop",
+            "CurrencyIsoCode": "USD"
+        },
+        {
+            "attributes": {
+                "type": "Product2",
+                "referenceId": "Product2Ref2"
+            },
+            "Name": "Spider 5 Series Laptop",
+            "ProductCode": "S5L",
+            "Description": "Intel Core i5-2520M Dual-Core 2.50GHz CPU\n8GB RAM\n250GB SDD\n14\" HD Display\n4x USB 2.0\nDVDRW\nWindows 10 Pro 64-bit",
+            "IsActive": true,
+            "Family": "Laptop",
+            "CurrencyIsoCode": "USD"
+        },
+        {
+            "attributes": {
+                "type": "Product2",
+                "referenceId": "Product2Ref3"
+            },
+            "Name": "Skyline Mousepad",
+            "ProductCode": "SF00-0172-000-000",
+            "Description": "Hard-surface mousepad with the iconic San Francisco skyline and Salesforce Cloud logo.",
+            "IsActive": true,
+            "Family": "Accessories",
+            "CurrencyIsoCode": "USD"
+        },
+        {
+            "attributes": {
+                "type": "Product2",
+                "referenceId": "Product2Ref4"
+            },
+            "Name": "Lightning 5 Series Desktop",
+            "ProductCode": "L5D",
+            "Description": "Intel Core i5-3400 Quad-Core Processor\n3.50GHz\nSmall Form Factor\n16GB DDR3\n2TB HDD (1TB Solid State)\nDVD-ROM\nGigabit Ethernet",
+            "IsActive": true,
+            "Family": "Desktop",
+            "CurrencyIsoCode": "USD"
+        },
+        {
+            "attributes": {
+                "type": "Product2",
+                "referenceId": "Product2Ref5"
+            },
+            "Name": "Spider Expansion Storage",
+            "ProductCode": "SES",
+            "Description": "4TB External Desktop HDD - USB 3.0",
+            "IsActive": true,
+            "Family": "Accessories",
+            "CurrencyIsoCode": "USD"
+        },
+        {
+            "attributes": {
+                "type": "Product2",
+                "referenceId": "Product2Ref6"
+            },
+            "Name": "Spider Laptop Sleeve",
+            "ProductCode": "SLS",
+            "Description": "Notebook sleeve - 14\" - black",
+            "IsActive": true,
+            "Family": "Accessories",
+            "CurrencyIsoCode": "USD"
+        },
+        {
+            "attributes": {
+                "type": "Product2",
+                "referenceId": "Product2Ref7"
+            },
+            "Name": "Aria Portable Bluetooth Speaker",
+            "ProductCode": "SF00-0254-WHT-000",
+            "Description": "Aria is a very compact Bluetooth speaker that can be paired to your phone or tablet to experience bold, rich sound from your music, movies or games. Both the front and back of Aria feature full speaker grills for the best sound amplification.  The outer edge of Aria has a soft grey finish that makes it a beautiful addition to any space and provides a non-slip scratch resistant base. Aria is rechargeable via USB port or USB outlet. It comes with a micro usb charging cable. Salesforce Cloud logo imprinted on the front bottom right corner.",
+            "IsActive": true,
+            "Family": "Accessories",
+            "CurrencyIsoCode": "USD"
+        },
+        {
+            "attributes": {
+                "type": "Product2",
+                "referenceId": "Product2Ref8"
+            },
+            "Name": "Universal Adapter",
+            "ProductCode": "SF00-0236-WHT-000",
+            "Description": "A must-have for any international traveler, this truly universal adapter works in over 150 countries! Every output you could need with blazing fast charging speed!\nInput: 100V - 250V, AC Max:6A\nDual USB Output: 5V DC/ 1@ 3200mA or 2@ 1600mA",
+            "IsActive": true,
+            "Family": "Accessories",
+            "CurrencyIsoCode": "USD"
+        },
+        {
+            "attributes": {
+                "type": "Product2",
+                "referenceId": "Product2Ref9"
+            },
+            "Name": "Calimari Charging Cable",
+            "ProductCode": "SF00-0210-WHT-000",
+            "Description": "The Calimari comes with one plug for iPhone 7, 6, 5/5C/5S, two micro-USBs (Samsungs, Droids, HTC, etc.), one mini USB, and one standard USB. Allows you to charge multiple items at once by plugging into your computer or USB wall charger.  The Calimari is MFI Certified by Apple.",
+            "IsActive": true,
+            "Family": "Accessories",
+            "CurrencyIsoCode": "USD"
+        },
+        {
+            "attributes": {
+                "type": "Product2",
+                "referenceId": "Product2Ref10"
+            },
+            "Name": "Beats Headphones",
+            "ProductCode": "SF00-0219-WHT-000",
+            "Description": "Beats by Dr. Dre headphones feature fine-tuned acoustics for clarity, breadth, and balance. Streamlined design for a custom fit. Carrying puch included. Lightweight comfort design. Take calls and control music with RemoteTalk cable. Adjustable earcups. Functionality may vary by device. Imprinted with the Salesfoce Cloud logo on one side.",
+            "IsActive": true,
+            "Family": "Accessories",
+            "CurrencyIsoCode": "USD"
+        },
+        {
+            "attributes": {
+                "type": "Product2",
+                "referenceId": "Product2Ref11"
+            },
+            "Name": "Lightning Wireless Solar Keyboard",
+            "ProductCode": "LWK",
+            "Description": "2.4GHz, Plug-and-Play, Light-Powered, Unifying Receiver, Thin Profile",
+            "IsActive": true,
+            "Family": "Accessories",
+            "CurrencyIsoCode": "USD"
+        },
+        {
+            "attributes": {
+                "type": "Product2",
+                "referenceId": "Product2Ref12"
+            },
+            "Name": "Lightning 1 Series Desktop",
+            "ProductCode": "L1D",
+            "Description": "Intel Core i5-2400 Quad-Core Processor\n3.10GHz\nSmall Form Factor\n8GB DDR3\n2TB HDD\nDVD-ROM\nGigabit Ethernet",
+            "IsActive": true,
+            "Family": "Desktop",
+            "CurrencyIsoCode": "USD"
+        }
+    ]
+}

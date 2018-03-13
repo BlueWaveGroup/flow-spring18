@@ -1,0 +1,39 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Pricebook2",
+                "referenceId": "Pricebook2Ref1"
+            },
+            "Name": "Nonprofit Pricebook",
+            "CurrencyIsoCode": "USD",
+            "IsActive": true,
+            "IsArchived": false,
+            "Description": "Nonprofit Customers",
+            "IsStandard": false
+        },
+        {
+            "attributes": {
+                "type": "Pricebook2",
+                "referenceId": "Pricebook2Ref2"
+            },
+            "Name": "Enterprise PriceBook",
+            "CurrencyIsoCode": "USD",
+            "IsActive": true,
+            "IsArchived": false,
+            "Description": "Enterprise Customers",
+            "IsStandard": false
+        },
+        {
+            "attributes": {
+                "type": "Pricebook2",
+                "referenceId": "Pricebook2Ref3"
+            },
+            "Name": "Standard Price Book",
+            "CurrencyIsoCode": "USD",
+            "IsActive": false,
+            "IsArchived": false,
+            "IsStandard": true
+        }
+    ]
+}

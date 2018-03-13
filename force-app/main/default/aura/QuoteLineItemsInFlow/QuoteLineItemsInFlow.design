@@ -1,0 +1,4 @@
+<design:component label="Quote Line Items">
+    <design:attribute name="quoteLineItems" label="Quote Line Items" />    
+    <design:attribute name="Continue_selecting_Products" label="Continue Selecting Products" />
+</design:component>

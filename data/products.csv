@@ -1,0 +1,39 @@
+"ID","NAME","PRODUCTCODE","DESCRIPTION","ISACTIVE","FAMILY","CURRENCYISOCODE","EXTERNALDATASOURCEID","EXTERNALID","DISPLAYURL","QUANTITYUNITOFMEASURE","ISDELETED"
+"01t1r000006WJhcAAG","Spider 1 Series Laptop","S1L","Intel Core i5-2520M Dual-Core 2.50GHz CPU
+4GB RAM
+250GB HDD
+14"" HD Display
+4x USB 2.0
+DVDRW
+Windows 10 Pro 64-bit","true","Laptop","USD","","","","","false"
+"01t1r000006WJhXAAW","Spider 5 Series Laptop","S5L","Intel Core i5-2520M Dual-Core 2.50GHz CPU
+8GB RAM
+250GB SDD
+14"" HD Display
+4x USB 2.0
+DVDRW
+Windows 10 Pro 64-bit","true","Laptop","USD","","","","","false"
+"01t1r000006Zb8RAAS","Skyline Mousepad","SF00-0172-000-000","Hard-surface mousepad with the iconic San Francisco skyline and Salesforce Cloud logo.","true","Accessories","USD","","","","","false"
+"01t1r000006Zb87AAC","Lightning 5 Series Desktop","L5D","Intel Core i5-3400 Quad-Core Processor
+3.50GHz
+Small Form Factor
+16GB DDR3
+2TB HDD (1TB Solid State)
+DVD-ROM
+Gigabit Ethernet","true","Desktop","USD","","","","","false"
+"01t1r000006Zb9FAAS","Spider Expansion Storage","SES","4TB External Desktop HDD - USB 3.0","true","Accessories","USD","","","","","false"
+"01t1r000006ZbFBAA0","Spider Laptop Sleeve","SLS","Notebook sleeve - 14"" - black","true","Accessories","USD","","","","","false"
+"01t1r000006Zb8HAAS","Aria Portable Bluetooth Speaker","SF00-0254-WHT-000","Aria is a very compact Bluetooth speaker that can be paired to your phone or tablet to experience bold, rich sound from your music, movies or games. Both the front and back of Aria feature full speaker grills for the best sound amplification.  The outer edge of Aria has a soft grey finish that makes it a beautiful addition to any space and provides a non-slip scratch resistant base. Aria is rechargeable via USB port or USB outlet. It comes with a micro usb charging cable. Salesforce Cloud logo imprinted on the front bottom right corner.","true","Accessories","USD","","","","","false"
+"01t1r000006Zb8IAAS","Universal Adapter","SF00-0236-WHT-000","A must-have for any international traveler, this truly universal adapter works in over 150 countries! Every output you could need with blazing fast charging speed!
+Input: 100V - 250V, AC Max:6A
+Dual USB Output: 5V DC/ 1@ 3200mA or 2@ 1600mA","true","Accessories","USD","","","","","false"
+"01t1r000006Zb8MAAS","Calimari Charging Cable","SF00-0210-WHT-000","The Calimari comes with one plug for iPhone 7, 6, 5/5C/5S, two micro-USBs (Samsungs, Droids, HTC, etc.), one mini USB, and one standard USB. Allows you to charge multiple items at once by plugging into your computer or USB wall charger.  The Calimari is MFI Certified by Apple.","true","Accessories","USD","","","","","false"
+"01t1r000006Zb8CAAS","Beats Headphones","SF00-0219-WHT-000","Beats by Dr. Dre headphones feature fine-tuned acoustics for clarity, breadth, and balance. Streamlined design for a custom fit. Carrying puch included. Lightweight comfort design. Take calls and control music with RemoteTalk cable. Adjustable earcups. Functionality may vary by device. Imprinted with the Salesfoce Cloud logo on one side.","true","Accessories","USD","","","","","false"
+"01t1r000006Zb9KAAS","Lightning Wireless Solar Keyboard","LWK","2.4GHz, Plug-and-Play, Light-Powered, Unifying Receiver, Thin Profile","true","Accessories","USD","","","","","false"
+"01t1r000006Zb82AAC","Lightning 1 Series Desktop","L1D","Intel Core i5-2400 Quad-Core Processor
+3.10GHz
+Small Form Factor
+8GB DDR3
+2TB HDD
+DVD-ROM
+Gigabit Ethernet","true","Desktop","USD","","","","","false"

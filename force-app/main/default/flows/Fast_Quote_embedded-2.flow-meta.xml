@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Flow xmlns="http://soap.sforce.com/2006/04/metadata">
+    <interviewLabel>Fast_Quote_embedded {!$Flow.CurrentDateTime}</interviewLabel>
+    <label>Fast_Quote_embedded</label>
+    <processType>Flow</processType>
+    <recordLookups>
+        <name>Account_Lookup</name>
+        <label>Account Lookup</label>
+        <locationX>21</locationX>
+        <locationY>18</locationY>
+        <assignNullValuesIfNoRecordsFound>false</assignNullValuesIfNoRecordsFound>
+        <connector>
+            <targetReference>Initial_Screen</targetReference>
+        </connector>
+        <filters>
+            <field>Id</field>
+            <operator>EqualTo</operator>
+            <value>
+                <elementReference>recordId</elementReference>
+            </value>
+        </filters>
+        <object>Account</object>
+        <outputReference>accountSObject</outputReference>
+        <queriedFields>Name</queriedFields>
+        <queriedFields>CurrencyIsoCode</queriedFields>
+    </recordLookups>
+    <screens>
+        <name>Initial_Screen</name>
+        <label>Initial Screen</label>
+        <locationX>19</locationX>
+        <locationY>104</locationY>
+        <allowBack>true</allowBack>
+        <allowFinish>true</allowFinish>
+        <allowPause>true</allowPause>
+        <fields>
+            <name>accountSObjectBanner</name>
+            <fieldText>{!accountSObject.Name}</fieldText>
+            <fieldType>DisplayText</fieldType>
+        </fields>
+    </screens>
+    <startElementReference>Account_Lookup</startElementReference>
+    <variables>
+        <name>accountSObject</name>
+        <dataType>SObject</dataType>
+        <isCollection>false</isCollection>
+        <isInput>true</isInput>
+        <isOutput>true</isOutput>
+        <objectType>Account</objectType>
+    </variables>
+    <variables>
+        <description>AccountId from embedded Lightning Page</description>
+        <name>recordId</name>
+        <dataType>String</dataType>
+        <isCollection>false</isCollection>
+        <isInput>true</isInput>
+        <isOutput>false</isOutput>
+    </variables>
+</Flow>
