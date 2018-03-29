@@ -1,0 +1,3482 @@
+[
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1520878491921,
+            "changeTime": 1520934292871,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1520878491921,
+            "changeTime": 1520934292870,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 256,
+            "modifiedTime": 1520933916126,
+            "changeTime": 1520934292870,
+            "contentHash": "4562b75c03b2af756593003ac9ddee6549762440",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/aura",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 224,
+            "modifiedTime": 1520878629087,
+            "changeTime": 1520934292819,
+            "contentHash": "920163ae4f5cf3e34ff1b3ed253b9d14446c4fa7",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/aura/QuoteLineItemInFlow",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/aura/QuoteLineItemInFlow",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 160,
+            "modifiedTime": 1520878629082,
+            "changeTime": 1520934292816,
+            "contentHash": "6df8f443a0952c51a233560338e10d59f5c2aa9c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/aura/QuoteLineItemInFlow/QuoteLineItemInFlow.cmp",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/aura/QuoteLineItemInFlow/QuoteLineItemInFlow.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1682,
+            "modifiedTime": 1520878629080,
+            "changeTime": 1520934292814,
+            "contentHash": "25c3d4fa9f0401bcef5bfc952c9f3bb39b37eb4e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/aura/QuoteLineItemInFlow/QuoteLineItemInFlow.cmp-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/aura/QuoteLineItemInFlow/QuoteLineItemInFlow.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1520878629079,
+            "changeTime": 1520934292815,
+            "contentHash": "4e03f0f0052e52e2d53bf1c3c7212f91e7206772",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/aura/QuoteLineItemInFlow/QuoteLineItemInFlowController.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/aura/QuoteLineItemInFlow/QuoteLineItemInFlowController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 145,
+            "modifiedTime": 1520878629082,
+            "changeTime": 1520934292813,
+            "contentHash": "59c149b99fc9b6ec962be83a1203cffa20cc1a9a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/aura/QuoteLineItemsInFlow",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/aura/QuoteLineItemsInFlow",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1520878629084,
+            "changeTime": 1520934292808,
+            "contentHash": "3606d6b2df2f393362e164efee49984319196fd5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/aura/QuoteLineItemsInFlow/QuoteLineItemsInFlow.cmp",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/aura/QuoteLineItemsInFlow/QuoteLineItemsInFlow.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 2432,
+            "modifiedTime": 1520878629083,
+            "changeTime": 1520934292806,
+            "contentHash": "d6221ca9ddf93a6f85b7f27faa14534cf8c18790",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/aura/QuoteLineItemsInFlow/QuoteLineItemsInFlow.cmp-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/aura/QuoteLineItemsInFlow/QuoteLineItemsInFlow.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1520878629083,
+            "changeTime": 1520934292804,
+            "contentHash": "4e03f0f0052e52e2d53bf1c3c7212f91e7206772",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/aura/QuoteLineItemsInFlow/QuoteLineItemsInFlow.design",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/aura/QuoteLineItemsInFlow/QuoteLineItemsInFlow.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 235,
+            "modifiedTime": 1520878629084,
+            "changeTime": 1520934292803,
+            "contentHash": "5e54125f05910e338682b57aca7b73f5f72dd5ef",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/aura/QuoteLineItemsInFlow/QuoteLineItemsInFlowController.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/aura/QuoteLineItemsInFlow/QuoteLineItemsInFlowController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 2282,
+            "modifiedTime": 1520878629084,
+            "changeTime": 1520934292807,
+            "contentHash": "572caa83786b334892b0490e93fcffcb010218ba",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/aura/flowFooter",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/aura/flowFooter",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 160,
+            "modifiedTime": 1520878629085,
+            "changeTime": 1520934292800,
+            "contentHash": "0b29ccab88b5ac6665731c93d8249f032e2245ca",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/aura/flowFooter/flowFooter.cmp",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/aura/flowFooter/flowFooter.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 2500,
+            "modifiedTime": 1520878629085,
+            "changeTime": 1520934292798,
+            "contentHash": "33ae046e93fe8ca3b8f8c24dd302ad953ede326d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/aura/flowFooter/flowFooter.cmp-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/aura/flowFooter/flowFooter.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1520878629085,
+            "changeTime": 1520934292796,
+            "contentHash": "4e03f0f0052e52e2d53bf1c3c7212f91e7206772",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/aura/flowFooter/flowFooterController.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/aura/flowFooter/flowFooterController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 982,
+            "modifiedTime": 1520878629085,
+            "changeTime": 1520934292800,
+            "contentHash": "32f2e6c187afe0085b8325b7243f5482e26fe9f8",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/aura/flowHeader",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/aura/flowHeader",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1520878629086,
+            "changeTime": 1520934292819,
+            "contentHash": "973c7c37677d0be3b3a149e65fd10b7678d96a9f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/aura/flowHeader/flowHeader.cmp",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/aura/flowHeader/flowHeader.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 737,
+            "modifiedTime": 1520878629086,
+            "changeTime": 1520934292818,
+            "contentHash": "df96644c030411640b695d908495f204f951b35f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/aura/flowHeader/flowHeader.cmp-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/aura/flowHeader/flowHeader.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1520878629086,
+            "changeTime": 1520934292817,
+            "contentHash": "4e03f0f0052e52e2d53bf1c3c7212f91e7206772",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/aura/navigateFlow",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/aura/navigateFlow",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1520878629087,
+            "changeTime": 1520934292811,
+            "contentHash": "5f3ed02871c60ace6604feadc6e8de91ff1a14ba",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/aura/navigateFlow/navigateFlow.evt",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/aura/navigateFlow/navigateFlow.evt",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 95,
+            "modifiedTime": 1520878629087,
+            "changeTime": 1520934292809,
+            "contentHash": "a0b170aba0f4ce04faa2033a60d585d7e79ff4fc",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/aura/navigateFlow/navigateFlow.evt-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/aura/navigateFlow/navigateFlow.evt-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1520878629087,
+            "changeTime": 1520934292811,
+            "contentHash": "4e03f0f0052e52e2d53bf1c3c7212f91e7206772",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/flexipages",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/flexipages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1520878628643,
+            "changeTime": 1520934292517,
+            "contentHash": "84ae45b14ce04fbcb63fa653277ce669fbb307ea",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/flexipages/Account_Record_Page.flexipage-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/flexipages/Account_Record_Page.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 10454,
+            "modifiedTime": 1520878628643,
+            "changeTime": 1520934292517,
+            "contentHash": "836d0a26800b64c080ba64827a5f1e71967b0079",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/flowDefinitions",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/flowDefinitions",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 160,
+            "modifiedTime": 1522321940708,
+            "changeTime": 1522321940708,
+            "contentHash": "96f1cbecbec2bb6113b89898b81ac3e1adcc94a9",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/flowDefinitions/Fast_Quote_Embedded_LTNG.flowDefinition-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/flowDefinitions/Fast_Quote_Embedded_LTNG.flowDefinition-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 172,
+            "modifiedTime": 1520878628646,
+            "changeTime": 1520934292823,
+            "contentHash": "10e74b234376328c619a3af47f4776f3151bec3f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/flowDefinitions/Fast_Quote_embedded.flowDefinition-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/flowDefinitions/Fast_Quote_embedded.flowDefinition-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 172,
+            "modifiedTime": 1520878628650,
+            "changeTime": 1520934292821,
+            "contentHash": "b8012915da818bc51a59633a5c20c9992e41aecd",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/flows",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/flows",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 992,
+            "modifiedTime": 1522321928929,
+            "changeTime": 1522321928929,
+            "contentHash": "19cbfdce75f4d7c92f430320e8a7c046e32d178e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/flows/Fast_Quote_Embedded_LTNG-1.flow-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/flows/Fast_Quote_Embedded_LTNG-1.flow-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 23935,
+            "modifiedTime": 1520878628663,
+            "changeTime": 1520934292830,
+            "contentHash": "52337930d9e2766e2eefa4fbd575d82c4e3aaa70",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/flows/Fast_Quote_Embedded_LTNG-10.flow-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/flows/Fast_Quote_Embedded_LTNG-10.flow-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 25452,
+            "modifiedTime": 1520878628680,
+            "changeTime": 1520934292848,
+            "contentHash": "49cdd2f4d08b2a2457160e6bc3743614949a8fda",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/flows/Fast_Quote_Embedded_LTNG-11.flow-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/flows/Fast_Quote_Embedded_LTNG-11.flow-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 25454,
+            "modifiedTime": 1520878628701,
+            "changeTime": 1520934292847,
+            "contentHash": "884e295d1e95d4fbb8befd031f329b84d3c109b4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/flows/Fast_Quote_Embedded_LTNG-12.flow-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/flows/Fast_Quote_Embedded_LTNG-12.flow-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 25454,
+            "modifiedTime": 1520878628712,
+            "changeTime": 1520934292843,
+            "contentHash": "884e295d1e95d4fbb8befd031f329b84d3c109b4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/flows/Fast_Quote_Embedded_LTNG-13.flow-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/flows/Fast_Quote_Embedded_LTNG-13.flow-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 24364,
+            "modifiedTime": 1520878628720,
+            "changeTime": 1520934292850,
+            "contentHash": "f68e6bece75487dc5af1e5550eab8d124cc508d1",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/flows/Fast_Quote_Embedded_LTNG-14.flow-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/flows/Fast_Quote_Embedded_LTNG-14.flow-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 24188,
+            "modifiedTime": 1520878628725,
+            "changeTime": 1520934292849,
+            "contentHash": "abce090df284e40aa024b3a3fd988f4835918cbb",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/flows/Fast_Quote_Embedded_LTNG-15.flow-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/flows/Fast_Quote_Embedded_LTNG-15.flow-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 24177,
+            "modifiedTime": 1520878628731,
+            "changeTime": 1520934292846,
+            "contentHash": "6efb3d9731a83e713de7723069e85a951d80ddf2",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/flows/Fast_Quote_Embedded_LTNG-16.flow-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/flows/Fast_Quote_Embedded_LTNG-16.flow-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 24177,
+            "modifiedTime": 1520878628737,
+            "changeTime": 1520934292841,
+            "contentHash": "6efb3d9731a83e713de7723069e85a951d80ddf2",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/flows/Fast_Quote_Embedded_LTNG-3.flow-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/flows/Fast_Quote_Embedded_LTNG-3.flow-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 23937,
+            "modifiedTime": 1520878628748,
+            "changeTime": 1520934292857,
+            "contentHash": "d177195979a285600dd48cc048c8759888c0a319",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/flows/Fast_Quote_Embedded_LTNG-5.flow-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/flows/Fast_Quote_Embedded_LTNG-5.flow-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 24578,
+            "modifiedTime": 1520878628764,
+            "changeTime": 1520934292832,
+            "contentHash": "ebc2a6850aaed344c0067675949a960758792f2e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/flows/Fast_Quote_Embedded_LTNG-6.flow-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/flows/Fast_Quote_Embedded_LTNG-6.flow-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 24698,
+            "modifiedTime": 1520878628770,
+            "changeTime": 1520934292835,
+            "contentHash": "ff40cc967e1e497defd5d699f3f1e31219c70e6b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/flows/Fast_Quote_Embedded_LTNG-7.flow-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/flows/Fast_Quote_Embedded_LTNG-7.flow-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 24950,
+            "modifiedTime": 1520878628776,
+            "changeTime": 1520934292855,
+            "contentHash": "867a3cf857c746f0de22eb10e2427a2b7cd4d9ca",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/flows/Fast_Quote_Embedded_LTNG-8.flow-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/flows/Fast_Quote_Embedded_LTNG-8.flow-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 25456,
+            "modifiedTime": 1520878628781,
+            "changeTime": 1520934292845,
+            "contentHash": "0495ae5a8ae9b0138d75353cc99bc7504fa5a954",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/flows/Fast_Quote_Embedded_LTNG-9.flow-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/flows/Fast_Quote_Embedded_LTNG-9.flow-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 25454,
+            "modifiedTime": 1520878628787,
+            "changeTime": 1520934292853,
+            "contentHash": "585dc21649ee2f820dece1da56f493ed89c5941c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/flows/Fast_Quote_embedded-1.flow-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/flows/Fast_Quote_embedded-1.flow-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2051,
+            "modifiedTime": 1520878628820,
+            "changeTime": 1520934292865,
+            "contentHash": "5c2659cbcf18067e24615de37745d1b5e46e4789",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/flows/Fast_Quote_embedded-10.flow-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/flows/Fast_Quote_embedded-10.flow-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 21221,
+            "modifiedTime": 1520878628825,
+            "changeTime": 1520934292859,
+            "contentHash": "b16ce5e5ff162a52dbf3bc9d13e0d9abacdc6985",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/flows/Fast_Quote_embedded-11.flow-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/flows/Fast_Quote_embedded-11.flow-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 22712,
+            "modifiedTime": 1520878628831,
+            "changeTime": 1520934292840,
+            "contentHash": "042fd47a89a86b0d9de015c2575e0651136dec98",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/flows/Fast_Quote_embedded-12.flow-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/flows/Fast_Quote_embedded-12.flow-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 22928,
+            "modifiedTime": 1520878628838,
+            "changeTime": 1520934292829,
+            "contentHash": "85c1049e119355b4afcbf5fd06a4e6bcc10e481c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/flows/Fast_Quote_embedded-13.flow-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/flows/Fast_Quote_embedded-13.flow-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 23679,
+            "modifiedTime": 1520878628844,
+            "changeTime": 1520934292866,
+            "contentHash": "8e9fe8aa480484ad73e1efef7e8951f94a79abff",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/flows/Fast_Quote_embedded-14.flow-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/flows/Fast_Quote_embedded-14.flow-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 23925,
+            "modifiedTime": 1520878628851,
+            "changeTime": 1520934292863,
+            "contentHash": "f08ccfb41387193b06ea1f0d989faaeba6d8353d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/flows/Fast_Quote_embedded-2.flow-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/flows/Fast_Quote_embedded-2.flow-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2106,
+            "modifiedTime": 1520878628852,
+            "changeTime": 1520934292860,
+            "contentHash": "5a1d40445d31c883b6691c9b497f13fc8f13ec44",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/flows/Fast_Quote_embedded-3.flow-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/flows/Fast_Quote_embedded-3.flow-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 3450,
+            "modifiedTime": 1520878628854,
+            "changeTime": 1520934292838,
+            "contentHash": "4a5a94dd3af1a2b52541af0737285fa347ad358f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/flows/Fast_Quote_embedded-4.flow-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/flows/Fast_Quote_embedded-4.flow-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 6543,
+            "modifiedTime": 1520878628858,
+            "changeTime": 1520934292827,
+            "contentHash": "b330445659921ae240aff2767deb03bdf4f20d45",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/flows/Fast_Quote_embedded-5.flow-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/flows/Fast_Quote_embedded-5.flow-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 12718,
+            "modifiedTime": 1520878628862,
+            "changeTime": 1520934292867,
+            "contentHash": "5b79ba4cd51cc84f1f74f857ae9d8cbeca5bab81",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/flows/Fast_Quote_embedded-6.flow-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/flows/Fast_Quote_embedded-6.flow-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 12436,
+            "modifiedTime": 1520878628865,
+            "changeTime": 1520934292862,
+            "contentHash": "924eff2875b50403229ecad56fd793378825b201",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/flows/Fast_Quote_embedded-7.flow-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/flows/Fast_Quote_embedded-7.flow-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 12813,
+            "modifiedTime": 1520878628870,
+            "changeTime": 1520934292837,
+            "contentHash": "19ddc2fdcd6340b54ca2583f3d2213458f075ae0",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/flows/Fast_Quote_embedded-8.flow-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/flows/Fast_Quote_embedded-8.flow-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 17692,
+            "modifiedTime": 1520878628875,
+            "changeTime": 1520934292852,
+            "contentHash": "59ae54ad4e5583459f79ce4472c2448935136e78",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/flows/Fast_Quote_embedded-9.flow-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/flows/Fast_Quote_embedded-9.flow-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 17813,
+            "modifiedTime": 1520878628884,
+            "changeTime": 1520934292842,
+            "contentHash": "849b011a0cb44c11b52260a8f20beb90317dfe2d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/layouts",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1520933916129,
+            "changeTime": 1520934292793,
+            "contentHash": "b2aa44986320a18245301bea220f7fe3f37f55d0",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/layouts/Account-Account Layout.layout-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/layouts/Account-Account Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 8853,
+            "modifiedTime": 1520933916129,
+            "changeTime": 1520934292792,
+            "contentHash": "5d59e10905a3f49c73608bfe4cbcb9b1a12b5648",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 320,
+            "modifiedTime": 1520878629064,
+            "changeTime": 1520934292790,
+            "contentHash": "c9c974543b3e0fe13fb629105b7374ea3a982a9f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Account",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Account",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1520878628910,
+            "changeTime": 1520934292790,
+            "contentHash": "a6f710139621de89cd48359ea1d0eacf0446d23d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Account/Account.object-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Account/Account.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 3921,
+            "modifiedTime": 1520878628900,
+            "changeTime": 1520934292738,
+            "contentHash": "f9283cea22e9fbcd8c7cc5a1c1173a6c2b7b3cc7",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Account/fields",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Account/fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 832,
+            "modifiedTime": 1520878628908,
+            "changeTime": 1520934292780,
+            "contentHash": "a7c1436a98fa8f728e5e9f5ee136e84386004f7c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Account/fields/AccountNumber.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Account/fields/AccountNumber.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 202,
+            "modifiedTime": 1520878628900,
+            "changeTime": 1520934292764,
+            "contentHash": "2485668a3437d5add365adc6395699585c0ec6d0",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Account/fields/AccountSource.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Account/fields/AccountSource.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1520878628900,
+            "changeTime": 1520934292759,
+            "contentHash": "1dee20ac58a40482934d035192fe7a98db6d9a81",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Account/fields/AnnualRevenue.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Account/fields/AnnualRevenue.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 202,
+            "modifiedTime": 1520878628901,
+            "changeTime": 1520934292772,
+            "contentHash": "428d667e4a7e884d30e9f297f975d2a6484dc2cd",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Account/fields/BillingAddress.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Account/fields/BillingAddress.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 203,
+            "modifiedTime": 1520878628901,
+            "changeTime": 1520934292749,
+            "contentHash": "780b69fd147e2be6a8e2388d7c4336e215f67586",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Account/fields/CurrencyIsoCode.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Account/fields/CurrencyIsoCode.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 204,
+            "modifiedTime": 1520878628901,
+            "changeTime": 1520934292750,
+            "contentHash": "7d0791c1464579d32ba9640dcdeb8dc0d58107ee",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Account/fields/Description.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Account/fields/Description.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 200,
+            "modifiedTime": 1520878628901,
+            "changeTime": 1520934292754,
+            "contentHash": "57d79a023b3596766f7369502cb5e2bac6a5cb92",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Account/fields/Fax.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Account/fields/Fax.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 192,
+            "modifiedTime": 1520878628902,
+            "changeTime": 1520934292773,
+            "contentHash": "7531bb94080187ff2cb7ab86658d706842b99d1f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Account/fields/Industry.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Account/fields/Industry.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 223,
+            "modifiedTime": 1520878628902,
+            "changeTime": 1520934292762,
+            "contentHash": "6f0a5236c2130d964cc6b9654fd5f11e512dca47",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Account/fields/Jigsaw.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Account/fields/Jigsaw.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 195,
+            "modifiedTime": 1520878628902,
+            "changeTime": 1520934292769,
+            "contentHash": "4ada28399de9ac97f1dc447fb1aaa8b887d11974",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Account/fields/Name.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Account/fields/Name.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 192,
+            "modifiedTime": 1520878628902,
+            "changeTime": 1520934292755,
+            "contentHash": "68769f37d93e5a8c8bc5ad8c2581f0f06ddca5f9",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Account/fields/NumberOfEmployees.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Account/fields/NumberOfEmployees.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 206,
+            "modifiedTime": 1520878628903,
+            "changeTime": 1520934292770,
+            "contentHash": "9d2f6c78b600962d19202740171268557046a498",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Account/fields/OwnerId.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Account/fields/OwnerId.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 219,
+            "modifiedTime": 1520878628903,
+            "changeTime": 1520934292777,
+            "contentHash": "52c2c64fa2e6525fc461c88e9c37849e89259798",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Account/fields/Ownership.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Account/fields/Ownership.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 224,
+            "modifiedTime": 1520878628903,
+            "changeTime": 1520934292760,
+            "contentHash": "d84c9b729263e5159ea9a88550f4941bde5aa50e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Account/fields/ParentId.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Account/fields/ParentId.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 224,
+            "modifiedTime": 1520878628904,
+            "changeTime": 1520934292745,
+            "contentHash": "a189aa9e1c94d29eb1f90c9544bfbd668be25cff",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Account/fields/Phone.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Account/fields/Phone.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 194,
+            "modifiedTime": 1520878628904,
+            "changeTime": 1520934292767,
+            "contentHash": "d58ccb85259d8a88abf129f4ea89ea8304963487",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Account/fields/Rating.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Account/fields/Rating.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 221,
+            "modifiedTime": 1520878628904,
+            "changeTime": 1520934292765,
+            "contentHash": "a8224eb175152b9deed680b818cbffd218dd5e3f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Account/fields/ShippingAddress.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Account/fields/ShippingAddress.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 204,
+            "modifiedTime": 1520878628905,
+            "changeTime": 1520934292746,
+            "contentHash": "c30026606731cd625b5d0b4e8e529a2418ef1ee6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Account/fields/Sic.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Account/fields/Sic.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 192,
+            "modifiedTime": 1520878628905,
+            "changeTime": 1520934292757,
+            "contentHash": "33262a22c31dbefac748023c3a6c018d743d3161",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Account/fields/SicDesc.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Account/fields/SicDesc.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 196,
+            "modifiedTime": 1520878628906,
+            "changeTime": 1520934292775,
+            "contentHash": "bc19f903ec1384e12d7dd7bc9ffa88580a091422",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Account/fields/Site.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Account/fields/Site.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 193,
+            "modifiedTime": 1520878628906,
+            "changeTime": 1520934292751,
+            "contentHash": "0f2240d03c79c58a0992338cd2a62f8aa201a0a7",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Account/fields/Support_Level__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Account/fields/Support_Level__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1138,
+            "modifiedTime": 1520878628907,
+            "changeTime": 1520934292780,
+            "contentHash": "6990264d805ff4442ad56a0c39f745f2f9f98333",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Account/fields/TickerSymbol.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Account/fields/TickerSymbol.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 201,
+            "modifiedTime": 1520878628907,
+            "changeTime": 1520934292752,
+            "contentHash": "9d08b4f2d44e5bd6161a034a999f2fd3f8179f49",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Account/fields/Type.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Account/fields/Type.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 219,
+            "modifiedTime": 1520878628907,
+            "changeTime": 1520934292778,
+            "contentHash": "3467b15d43e2f23e3287cad8cd0622c58b3fdc61",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Account/fields/Website.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Account/fields/Website.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 196,
+            "modifiedTime": 1520878628908,
+            "changeTime": 1520934292748,
+            "contentHash": "38590f00b03c4be8e4116dff68bdeaf0d829bfea",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Account/listViews",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Account/listViews",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 160,
+            "modifiedTime": 1520878628909,
+            "changeTime": 1520934292742,
+            "contentHash": "096a18b75961330fa9b696983e53eb629beda0b7",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Account/listViews/AllAccounts.listView-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Account/listViews/AllAccounts.listView-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 448,
+            "modifiedTime": 1520878628909,
+            "changeTime": 1520934292741,
+            "contentHash": "3defc2c01d7dc234a484b810ee13d55ce6910844",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Account/listViews/MyAccounts.listView-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Account/listViews/MyAccounts.listView-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 213,
+            "modifiedTime": 1520878628909,
+            "changeTime": 1520934292739,
+            "contentHash": "78397d265f930d78ba4b80939c185d843ca0159d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Account/listViews/NewThisWeek.listView-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Account/listViews/NewThisWeek.listView-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 598,
+            "modifiedTime": 1520878628910,
+            "changeTime": 1520934292742,
+            "contentHash": "86107632a805b7d570db194b2834a4cdbc4a40c4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Account/webLinks",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Account/webLinks",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 256,
+            "modifiedTime": 1520878628913,
+            "changeTime": 1520934292790,
+            "contentHash": "2ca44588cb8afa664b10ac961732b8c530d58e8d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Account/webLinks/AltavistaNews.webLink-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Account/webLinks/AltavistaNews.webLink-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 753,
+            "modifiedTime": 1520878628910,
+            "changeTime": 1520934292789,
+            "contentHash": "8e2d991a7a99fa11477132b1f75dad4ebe4e6a86",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Account/webLinks/GoogleMaps.webLink-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Account/webLinks/GoogleMaps.webLink-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 820,
+            "modifiedTime": 1520878628911,
+            "changeTime": 1520934292787,
+            "contentHash": "ed359ac5f513b975b44ee835420958f6f6213610",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Account/webLinks/GoogleNews.webLink-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Account/webLinks/GoogleNews.webLink-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 762,
+            "modifiedTime": 1520878628911,
+            "changeTime": 1520934292788,
+            "contentHash": "399a56f1982a8825ac305d05bdfe271a85c166dd",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Account/webLinks/GoogleSearch.webLink-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Account/webLinks/GoogleSearch.webLink-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 742,
+            "modifiedTime": 1520878628912,
+            "changeTime": 1520934292785,
+            "contentHash": "6e79270b73f96f86d1c18498d2373250ed4b7485",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Account/webLinks/HooversProfile.webLink-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Account/webLinks/HooversProfile.webLink-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 791,
+            "modifiedTime": 1520878628912,
+            "changeTime": 1520934292784,
+            "contentHash": "0b148e3f7a3fafa9d25c3e2e86d9318201d51908",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Account/webLinks/YahooMaps.webLink-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Account/webLinks/YahooMaps.webLink-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 867,
+            "modifiedTime": 1520878628913,
+            "changeTime": 1520934292782,
+            "contentHash": "e74eabb62fdb46a1f2163e614897153c090d2ce2",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Opportunity",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Opportunity",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 160,
+            "modifiedTime": 1520878628952,
+            "changeTime": 1520934292613,
+            "contentHash": "dc3f17fd61ab6d5a0285251b4e30c949acb8f153",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Opportunity/Opportunity.object-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Opportunity/Opportunity.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 3066,
+            "modifiedTime": 1520878628942,
+            "changeTime": 1520934292546,
+            "contentHash": "fe3da3aa6cd2ae300101b96a55f5d42b291dc84c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Opportunity/fields",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Opportunity/fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 896,
+            "modifiedTime": 1520878628952,
+            "changeTime": 1520934292613,
+            "contentHash": "4915969ff5dd6e1a3130cf6f922c189ba0ebe149",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Opportunity/fields/AccountId.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Opportunity/fields/AccountId.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 263,
+            "modifiedTime": 1520878628943,
+            "changeTime": 1520934292580,
+            "contentHash": "ddead8196b7c0d8801a4c4bed2df0350671bfdc9",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Opportunity/fields/Amount.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Opportunity/fields/Amount.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 235,
+            "modifiedTime": 1520878628943,
+            "changeTime": 1520934292575,
+            "contentHash": "6b047905b443336cbd4b456b7a9b5710a8ef1322",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Opportunity/fields/CC_Exp_Month__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Opportunity/fields/CC_Exp_Month__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 445,
+            "modifiedTime": 1520878628944,
+            "changeTime": 1520934292565,
+            "contentHash": "a3a1a35379fe2b6897c350be1f98220a1caeee23",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Opportunity/fields/CC_Exp_Year__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Opportunity/fields/CC_Exp_Year__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 442,
+            "modifiedTime": 1520878628944,
+            "changeTime": 1520934292574,
+            "contentHash": "3aee801e4d45c6fea1a5037219f490ad6f5f0684",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Opportunity/fields/CampaignId.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Opportunity/fields/CampaignId.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 264,
+            "modifiedTime": 1520878628944,
+            "changeTime": 1520934292573,
+            "contentHash": "191443ccf3cbba59279c7d49bf01214ea1a7e126",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Opportunity/fields/CloseDate.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Opportunity/fields/CloseDate.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 238,
+            "modifiedTime": 1520878628944,
+            "changeTime": 1520934292613,
+            "contentHash": "f221ca916214fcd9dbc1aa44904a6238859fa72c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Opportunity/fields/ContractId.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Opportunity/fields/ContractId.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 264,
+            "modifiedTime": 1520878628945,
+            "changeTime": 1520934292581,
+            "contentHash": "fc50b01b7ef9c40a27e44c3dc5d045d44480ba29",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Opportunity/fields/Credit_Card_No__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Opportunity/fields/Credit_Card_No__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 450,
+            "modifiedTime": 1520878628945,
+            "changeTime": 1520934292587,
+            "contentHash": "fd364f982bdeb998a2c8c246fd1f2c37285da278",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Opportunity/fields/CurrencyIsoCode.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Opportunity/fields/CurrencyIsoCode.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 245,
+            "modifiedTime": 1520878628945,
+            "changeTime": 1520934292568,
+            "contentHash": "4fc18292d3b7ea8880bb1d743d3f8085b61408f6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Opportunity/fields/Description.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Opportunity/fields/Description.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 241,
+            "modifiedTime": 1520878628946,
+            "changeTime": 1520934292569,
+            "contentHash": "369f2d2dd9aa349900ec2a07e00fb7162b29fd09",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Opportunity/fields/Discount_Percentage__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Opportunity/fields/Discount_Percentage__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 746,
+            "modifiedTime": 1520878628946,
+            "changeTime": 1520934292566,
+            "contentHash": "6aedfcf165ba3eca2aa633e1541f38ca64b2a0d7",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Opportunity/fields/ExpectedRevenue.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Opportunity/fields/ExpectedRevenue.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 198,
+            "modifiedTime": 1520878628946,
+            "changeTime": 1520934292607,
+            "contentHash": "283266ae9750053442bbc4eb4bd7f2c127e2ca06",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Opportunity/fields/IqScore.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Opportunity/fields/IqScore.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 190,
+            "modifiedTime": 1520878628946,
+            "changeTime": 1520934292570,
+            "contentHash": "ef86ca1575d71d6f8bb7c0163b84d0ef2d85ff0b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Opportunity/fields/IsPrivate.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Opportunity/fields/IsPrivate.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 239,
+            "modifiedTime": 1520878628947,
+            "changeTime": 1520934292612,
+            "contentHash": "d0db908a59ce86178ed22e786980e8dcadb4c0e3",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Opportunity/fields/LeadSource.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Opportunity/fields/LeadSource.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 266,
+            "modifiedTime": 1520878628947,
+            "changeTime": 1520934292584,
+            "contentHash": "ac5c4a94f4c5f9bd38d5c1d14aae2b54a9c5a81c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Opportunity/fields/Name.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Opportunity/fields/Name.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 233,
+            "modifiedTime": 1520878628947,
+            "changeTime": 1520934292572,
+            "contentHash": "9c1be91bb523a012d59b8f4703f7a106d6428159",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Opportunity/fields/NextStep.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Opportunity/fields/NextStep.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 238,
+            "modifiedTime": 1520878628947,
+            "changeTime": 1520934292586,
+            "contentHash": "8344a7bca864fc59bcc6597ccb36f9308e2ad65c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Opportunity/fields/OwnerId.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Opportunity/fields/OwnerId.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 260,
+            "modifiedTime": 1520878628948,
+            "changeTime": 1520934292595,
+            "contentHash": "3fcc4be59ff087e527b687e721d8811e92c33e62",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Opportunity/fields/Pricebook2Id.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Opportunity/fields/Pricebook2Id.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 219,
+            "modifiedTime": 1520878628948,
+            "changeTime": 1520934292582,
+            "contentHash": "6073cd45908669eb1d6de72919f5d8c1f5d2f5cf",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Opportunity/fields/Probability.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Opportunity/fields/Probability.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 241,
+            "modifiedTime": 1520878628949,
+            "changeTime": 1520934292609,
+            "contentHash": "707fdee35ab4b79a69c635443db77c70948a5910",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Opportunity/fields/Purchase_Order_No__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Opportunity/fields/Purchase_Order_No__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 426,
+            "modifiedTime": 1520878628949,
+            "changeTime": 1520934292610,
+            "contentHash": "423f7a7ff31fbe85f2fc77f78f74f4a4977f52fd",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Opportunity/fields/Sales_Order_No__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Opportunity/fields/Sales_Order_No__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 420,
+            "modifiedTime": 1520878628950,
+            "changeTime": 1520934292577,
+            "contentHash": "4f02e3131d169d4cca4eb051ce3eb06aa3f8510f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Opportunity/fields/StageName.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Opportunity/fields/StageName.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 264,
+            "modifiedTime": 1520878628950,
+            "changeTime": 1520934292585,
+            "contentHash": "cc69df14543885c7f3b123dc0ca9bf36d5cccae3",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Opportunity/fields/SyncedQuoteId.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Opportunity/fields/SyncedQuoteId.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 267,
+            "modifiedTime": 1520878628951,
+            "changeTime": 1520934292611,
+            "contentHash": "82c9634976c843d39cc0b82515f20c18d6b4e459",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Opportunity/fields/TotalOpportunityQuantity.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Opportunity/fields/TotalOpportunityQuantity.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 254,
+            "modifiedTime": 1520878628951,
+            "changeTime": 1520934292579,
+            "contentHash": "b32b34c36eedceeb68877bf7527e493bee0eb943",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Opportunity/fields/Type.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Opportunity/fields/Type.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 260,
+            "modifiedTime": 1520878628952,
+            "changeTime": 1520934292611,
+            "contentHash": "2ccbfa9b889937d3f267d8553b18ee9d565af57f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Opportunity/listViews",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Opportunity/listViews",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 288,
+            "modifiedTime": 1520878628955,
+            "changeTime": 1520934292561,
+            "contentHash": "32f01396ba5506af788fae0afd84a0eb14ae83dd",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Opportunity/listViews/AllOpportunities.listView-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Opportunity/listViews/AllOpportunities.listView-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 231,
+            "modifiedTime": 1520878628952,
+            "changeTime": 1520934292557,
+            "contentHash": "20f2a33f2464528dc6c5c089c8a952060bc0f54a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Opportunity/listViews/ClosingNextMonth.listView-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Opportunity/listViews/ClosingNextMonth.listView-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 513,
+            "modifiedTime": 1520878628953,
+            "changeTime": 1520934292554,
+            "contentHash": "f0383c008c94343de15cdc98da97742742b5caf9",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Opportunity/listViews/ClosingThisMonth.listView-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Opportunity/listViews/ClosingThisMonth.listView-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 513,
+            "modifiedTime": 1520878628953,
+            "changeTime": 1520934292550,
+            "contentHash": "1794a9b10f43de449b63303697f638fc8e871fb8",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Opportunity/listViews/Default_Opportunity_Pipeline.listView-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Opportunity/listViews/Default_Opportunity_Pipeline.listView-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 400,
+            "modifiedTime": 1520878628954,
+            "changeTime": 1520934292552,
+            "contentHash": "8685d5a6347d01b4786db45bf82afc9b02473c20",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Opportunity/listViews/MyOpportunities.listView-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Opportunity/listViews/MyOpportunities.listView-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 223,
+            "modifiedTime": 1520878628954,
+            "changeTime": 1520934292560,
+            "contentHash": "68e0b304bb7dee4933c9a05817ce5af6e6085adb",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Opportunity/listViews/NewThisWeek.listView-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Opportunity/listViews/NewThisWeek.listView-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 370,
+            "modifiedTime": 1520878628955,
+            "changeTime": 1520934292556,
+            "contentHash": "0a5de62c34900aaeb2787bb16111ddd9675bf864",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Opportunity/listViews/Won.listView-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Opportunity/listViews/Won.listView-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 469,
+            "modifiedTime": 1520878628956,
+            "changeTime": 1520934292559,
+            "contentHash": "7b5582815a6d63f15083edd2ae2b45bcf47c61b8",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/OpportunityLineItem",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/OpportunityLineItem",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1520878628976,
+            "changeTime": 1520934292681,
+            "contentHash": "cc0a3bf36ae1627cb233f08b9128fc34de564392",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/OpportunityLineItem/OpportunityLineItem.object-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/OpportunityLineItem/OpportunityLineItem.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1152,
+            "modifiedTime": 1520878628976,
+            "changeTime": 1520934292672,
+            "contentHash": "78f48c383d3ede7d652666c28f2de310e9ceb228",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/OpportunityLineItem/fields",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/OpportunityLineItem/fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 416,
+            "modifiedTime": 1520878628980,
+            "changeTime": 1520934292681,
+            "contentHash": "33a69d4b3348821cfe096c04f26caa8dac086475",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/OpportunityLineItem/fields/Description.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/OpportunityLineItem/fields/Description.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 153,
+            "modifiedTime": 1520878628976,
+            "changeTime": 1520934292675,
+            "contentHash": "414587265a2c699d549368921b31b19910ccf5c6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/OpportunityLineItem/fields/Discount.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/OpportunityLineItem/fields/Discount.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 150,
+            "modifiedTime": 1520878628977,
+            "changeTime": 1520934292680,
+            "contentHash": "5a6b9c77c0da89108d05c3c6e41cbe56b5127c27",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/OpportunityLineItem/fields/ListPrice.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/OpportunityLineItem/fields/ListPrice.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 151,
+            "modifiedTime": 1520878628977,
+            "changeTime": 1520934292679,
+            "contentHash": "6b7f65265769d828da99c68c292617b2fd033779",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/OpportunityLineItem/fields/OpportunityId.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/OpportunityLineItem/fields/OpportunityId.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 179,
+            "modifiedTime": 1520878628977,
+            "changeTime": 1520934292673,
+            "contentHash": "1a35484a7dd6e0e25ece5d61712ccd19710ff48c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/OpportunityLineItem/fields/Product2Id.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/OpportunityLineItem/fields/Product2Id.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 176,
+            "modifiedTime": 1520878628978,
+            "changeTime": 1520934292674,
+            "contentHash": "f69dd020b78bf87d78ff93949b2cfa40d79dc874",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/OpportunityLineItem/fields/ProductCode.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/OpportunityLineItem/fields/ProductCode.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 153,
+            "modifiedTime": 1520878628978,
+            "changeTime": 1520934292676,
+            "contentHash": "05d9f7db6d42a0f4e3e1c5f484603938c18e45de",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/OpportunityLineItem/fields/Quantity.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/OpportunityLineItem/fields/Quantity.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 150,
+            "modifiedTime": 1520878628979,
+            "changeTime": 1520934292678,
+            "contentHash": "e22808bcf5310509136dc5eea1aa106e23ab5993",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/OpportunityLineItem/fields/ServiceDate.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/OpportunityLineItem/fields/ServiceDate.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 153,
+            "modifiedTime": 1520878628979,
+            "changeTime": 1520934292677,
+            "contentHash": "9b1636ace540e35f7c91d6705fd5ace315a1c066",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/OpportunityLineItem/fields/Subtotal.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/OpportunityLineItem/fields/Subtotal.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 150,
+            "modifiedTime": 1520878628979,
+            "changeTime": 1520934292679,
+            "contentHash": "9e7c7347c8b6b0f896bd62b6207d68c63cddfcf8",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/OpportunityLineItem/fields/TotalPrice.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/OpportunityLineItem/fields/TotalPrice.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 152,
+            "modifiedTime": 1520878628980,
+            "changeTime": 1520934292678,
+            "contentHash": "aa06683ac2730c73468b20024034ec8731759bc6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/OpportunityLineItem/fields/UnitPrice.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/OpportunityLineItem/fields/UnitPrice.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 151,
+            "modifiedTime": 1520878628980,
+            "changeTime": 1520934292680,
+            "contentHash": "9cba5268d3bcb288cf9c46632e8a7de63a569746",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Pricebook2",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Pricebook2",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 160,
+            "modifiedTime": 1520878628995,
+            "changeTime": 1520934292706,
+            "contentHash": "2bbbf3dbd92f2079f65f2985687a964918b68f14",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Pricebook2/Pricebook2.object-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Pricebook2/Pricebook2.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2845,
+            "modifiedTime": 1520878628993,
+            "changeTime": 1520934292697,
+            "contentHash": "e3c522f5f1182323e378637a8d35cb150dbf6ef5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Pricebook2/fields",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Pricebook2/fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1520878628995,
+            "changeTime": 1520934292706,
+            "contentHash": "e812a5362f4206846e65d5641cc88d2fa4b41b43",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Pricebook2/fields/Description.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Pricebook2/fields/Description.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 192,
+            "modifiedTime": 1520878628994,
+            "changeTime": 1520934292703,
+            "contentHash": "8d3cebabc9d84ca309618b2dfe41353e971ea861",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Pricebook2/fields/IsActive.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Pricebook2/fields/IsActive.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 189,
+            "modifiedTime": 1520878628994,
+            "changeTime": 1520934292706,
+            "contentHash": "e25f6e4daad679da99c7f1cb16fcd3a058ea44f0",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Pricebook2/fields/IsStandard.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Pricebook2/fields/IsStandard.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 191,
+            "modifiedTime": 1520878628994,
+            "changeTime": 1520934292702,
+            "contentHash": "989a7c2e4a0cc59496ac31bc9079bf9c41e962d7",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Pricebook2/fields/Name.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Pricebook2/fields/Name.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 185,
+            "modifiedTime": 1520878628995,
+            "changeTime": 1520934292705,
+            "contentHash": "b5759a4781bf622ab9220d3571a379926922d3b0",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Pricebook2/listViews",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Pricebook2/listViews",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1520878628995,
+            "changeTime": 1520934292700,
+            "contentHash": "6729a5116611ae752056a3ad3ee0f830641770e0",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Pricebook2/listViews/All_Pricebooks.listView-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Pricebook2/listViews/All_Pricebooks.listView-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 401,
+            "modifiedTime": 1520878628995,
+            "changeTime": 1520934292700,
+            "contentHash": "7f5c3364a4a253ccde276a3ca6ed71e058a1dc5c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/PricebookEntry",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/PricebookEntry",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1520878629001,
+            "changeTime": 1520934292736,
+            "contentHash": "baa16144c7383f99af34a8d5237e7d881dcf3dfa",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/PricebookEntry/PricebookEntry.object-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/PricebookEntry/PricebookEntry.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1572,
+            "modifiedTime": 1520878629001,
+            "changeTime": 1520934292736,
+            "contentHash": "f20c3a889c7849c77f71ad7527fc06e5a035606d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/PricebookEntry/fields",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/PricebookEntry/fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 384,
+            "modifiedTime": 1520878629004,
+            "changeTime": 1520934292735,
+            "contentHash": "3f6b2adbf2db6ac444f70786e2dc078e1ec4122d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/PricebookEntry/fields/ISO_Symbol__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/PricebookEntry/fields/ISO_Symbol__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 514,
+            "modifiedTime": 1520878629002,
+            "changeTime": 1520934292732,
+            "contentHash": "f34f6988224876b29fc9a7cf31aa6d3915143e05",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/PricebookEntry/fields/IsActive.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/PricebookEntry/fields/IsActive.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 150,
+            "modifiedTime": 1520878629002,
+            "changeTime": 1520934292733,
+            "contentHash": "2c178b820edc4ceb5a07e6596964d1cbc0787c38",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/PricebookEntry/fields/Pricebook2Id.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/PricebookEntry/fields/Pricebook2Id.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 178,
+            "modifiedTime": 1520878629002,
+            "changeTime": 1520934292730,
+            "contentHash": "540f9d363b4ec16c8fef7022f28219e476132e51",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/PricebookEntry/fields/Product2Id.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/PricebookEntry/fields/Product2Id.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 176,
+            "modifiedTime": 1520878629002,
+            "changeTime": 1520934292724,
+            "contentHash": "f69dd020b78bf87d78ff93949b2cfa40d79dc874",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/PricebookEntry/fields/ProductCode.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/PricebookEntry/fields/ProductCode.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 153,
+            "modifiedTime": 1520878629003,
+            "changeTime": 1520934292727,
+            "contentHash": "05d9f7db6d42a0f4e3e1c5f484603938c18e45de",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/PricebookEntry/fields/Product_Family__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/PricebookEntry/fields/Product_Family__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 353,
+            "modifiedTime": 1520878629003,
+            "changeTime": 1520934292729,
+            "contentHash": "80372b03faee775908fc77d46d02c808e2330ebe",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/PricebookEntry/fields/Product_Selection_View__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/PricebookEntry/fields/Product_Selection_View__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 480,
+            "modifiedTime": 1520878629003,
+            "changeTime": 1520934292725,
+            "contentHash": "3336ea25d2fce3ca43c1b196bfd0ba20dc54ff2a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/PricebookEntry/fields/StandardPrice.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/PricebookEntry/fields/StandardPrice.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 155,
+            "modifiedTime": 1520878629004,
+            "changeTime": 1520934292731,
+            "contentHash": "87da4144f1bde9bcae84cb801450880f123ae68b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/PricebookEntry/fields/UnitPrice.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/PricebookEntry/fields/UnitPrice.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 151,
+            "modifiedTime": 1520878629004,
+            "changeTime": 1520934292735,
+            "contentHash": "9cba5268d3bcb288cf9c46632e8a7de63a569746",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/PricebookEntry/fields/UseStandardPrice.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/PricebookEntry/fields/UseStandardPrice.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 158,
+            "modifiedTime": 1520878629004,
+            "changeTime": 1520934292726,
+            "contentHash": "261bb7978fcdfb83b4d28e51fb63274b66b7610f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Product2",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Product2",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 160,
+            "modifiedTime": 1520878629022,
+            "changeTime": 1520934292722,
+            "contentHash": "24957390563cc74af4dea28f33b1ef455d41cf28",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Product2/Product2.object-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Product2/Product2.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2729,
+            "modifiedTime": 1520878629019,
+            "changeTime": 1520934292708,
+            "contentHash": "b452a23ae9fc1b6a3a56c0a6c1e311b24a41bf59",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Product2/fields",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Product2/fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 416,
+            "modifiedTime": 1520878629021,
+            "changeTime": 1520934292721,
+            "contentHash": "6c82dd71e6069fbfa03224a68922e7957b8d69ce",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Product2/fields/CurrencyIsoCode.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Product2/fields/CurrencyIsoCode.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 196,
+            "modifiedTime": 1520878629019,
+            "changeTime": 1520934292714,
+            "contentHash": "e715004c49539ea1bea23a65e0411df28d7a7856",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Product2/fields/Description.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Product2/fields/Description.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 192,
+            "modifiedTime": 1520878629019,
+            "changeTime": 1520934292715,
+            "contentHash": "8d3cebabc9d84ca309618b2dfe41353e971ea861",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Product2/fields/DisplayUrl.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Product2/fields/DisplayUrl.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 191,
+            "modifiedTime": 1520878629020,
+            "changeTime": 1520934292720,
+            "contentHash": "6af155abe150e242288b6e65a5f7a56045ac52b8",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Product2/fields/ExternalDataSourceId.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Product2/fields/ExternalDataSourceId.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 225,
+            "modifiedTime": 1520878629020,
+            "changeTime": 1520934292721,
+            "contentHash": "6ebd0826fa1bb88e40aca692a4ae8519a225fcc0",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Product2/fields/ExternalId.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Product2/fields/ExternalId.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 191,
+            "modifiedTime": 1520878629020,
+            "changeTime": 1520934292712,
+            "contentHash": "8e1df1cf9a5d66a338ff6e6346865a99618a02d8",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Product2/fields/Family.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Product2/fields/Family.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 213,
+            "modifiedTime": 1520878629020,
+            "changeTime": 1520934292718,
+            "contentHash": "5fee292bd715e8d2a5af841836fa835bf3d53f94",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Product2/fields/IsActive.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Product2/fields/IsActive.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 189,
+            "modifiedTime": 1520878629021,
+            "changeTime": 1520934292719,
+            "contentHash": "e25f6e4daad679da99c7f1cb16fcd3a058ea44f0",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Product2/fields/Name.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Product2/fields/Name.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 185,
+            "modifiedTime": 1520878629021,
+            "changeTime": 1520934292716,
+            "contentHash": "b5759a4781bf622ab9220d3571a379926922d3b0",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Product2/fields/ProductCode.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Product2/fields/ProductCode.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 192,
+            "modifiedTime": 1520878629021,
+            "changeTime": 1520934292717,
+            "contentHash": "a639bf60c372267ad5a7f67b32204b9490b8f4fb",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Product2/fields/QuantityUnitOfMeasure.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Product2/fields/QuantityUnitOfMeasure.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1520878629021,
+            "changeTime": 1520934292713,
+            "contentHash": "dbda9d4895af156567efa72c319bcb7526e9b03d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Product2/fields/StockKeepingUnit.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Product2/fields/StockKeepingUnit.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 197,
+            "modifiedTime": 1520878629022,
+            "changeTime": 1520934292717,
+            "contentHash": "2973761c0d09d1cd64c8c179fb1d57a301b7e21e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Product2/listViews",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Product2/listViews",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1520878629022,
+            "changeTime": 1520934292710,
+            "contentHash": "f8e1342d1589fe70c5d508e37f686c1d65522bc8",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Product2/listViews/AllProducts.listView-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Product2/listViews/AllProducts.listView-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 393,
+            "modifiedTime": 1520878629022,
+            "changeTime": 1520934292710,
+            "contentHash": "0bd9cc11e5f9a32ca3896c7f9a0e6193f3b33608",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Quote",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Quote",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 160,
+            "modifiedTime": 1520878629044,
+            "changeTime": 1520934292666,
+            "contentHash": "e0d75d6092f90f0652ad9ca2e94883f5e3f729af",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Quote/Quote.object-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Quote/Quote.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 3818,
+            "modifiedTime": 1520878629036,
+            "changeTime": 1520934292666,
+            "contentHash": "a163669d5cd7a515b4a07a22508a41388a8c1330",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Quote/fields",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Quote/fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 864,
+            "modifiedTime": 1520878629044,
+            "changeTime": 1520934292654,
+            "contentHash": "b1c778211b49ca91258fe9c216d4651600ea0f9b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Quote/fields/AccountId.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Quote/fields/AccountId.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 175,
+            "modifiedTime": 1520878629037,
+            "changeTime": 1520934292631,
+            "contentHash": "64882094ec8aceeccf1dfda8c23e59e1b538acdf",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Quote/fields/Account_Fast_Quote__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Quote/fields/Account_Fast_Quote__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 466,
+            "modifiedTime": 1520878629037,
+            "changeTime": 1520934292621,
+            "contentHash": "02b256feab6afd99f7dc598443fd91eddee71b84",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Quote/fields/AdditionalName.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Quote/fields/AdditionalName.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 156,
+            "modifiedTime": 1520878629037,
+            "changeTime": 1520934292629,
+            "contentHash": "c758bec3ed570be565b658a4ef798dbb18ddd1e1",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Quote/fields/BillingName.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Quote/fields/BillingName.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 153,
+            "modifiedTime": 1520878629038,
+            "changeTime": 1520934292638,
+            "contentHash": "b79e4c7054259c78d40975b35432f20ee79c1d9a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Quote/fields/ContactId.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Quote/fields/ContactId.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 175,
+            "modifiedTime": 1520878629038,
+            "changeTime": 1520934292630,
+            "contentHash": "ff54a73be40ee99e72cdf2d7478066d1330d742b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Quote/fields/ContractId.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Quote/fields/ContractId.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 176,
+            "modifiedTime": 1520878629038,
+            "changeTime": 1520934292632,
+            "contentHash": "8de14f3e50a65494002d9a16026abe80d00e3f0d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Quote/fields/Description.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Quote/fields/Description.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 153,
+            "modifiedTime": 1520878629038,
+            "changeTime": 1520934292618,
+            "contentHash": "414587265a2c699d549368921b31b19910ccf5c6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Quote/fields/Discount.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Quote/fields/Discount.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 150,
+            "modifiedTime": 1520878629039,
+            "changeTime": 1520934292646,
+            "contentHash": "5a6b9c77c0da89108d05c3c6e41cbe56b5127c27",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Quote/fields/Email.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Quote/fields/Email.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 147,
+            "modifiedTime": 1520878629039,
+            "changeTime": 1520934292622,
+            "contentHash": "6b84f1dc4e6c69010e3e9e368fc4afbbe43cbac6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Quote/fields/ExpirationDate.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Quote/fields/ExpirationDate.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 156,
+            "modifiedTime": 1520878629039,
+            "changeTime": 1520934292627,
+            "contentHash": "81c77550a04c3af2c4a64d8b46a06b6b63747915",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Quote/fields/Fax.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Quote/fields/Fax.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 145,
+            "modifiedTime": 1520878629039,
+            "changeTime": 1520934292636,
+            "contentHash": "73ad8a461be8a7de5a4ed7a63152049e13cf7538",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Quote/fields/GrandTotal.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Quote/fields/GrandTotal.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 152,
+            "modifiedTime": 1520878629040,
+            "changeTime": 1520934292633,
+            "contentHash": "26a5d271254f7b4d741c3f90f8ec3c32c1b5ad19",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Quote/fields/IsSyncing.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Quote/fields/IsSyncing.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 151,
+            "modifiedTime": 1520878629040,
+            "changeTime": 1520934292637,
+            "contentHash": "860acb01cc37f13545c95826454cd7fe6a1202f4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Quote/fields/LineItemCount.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Quote/fields/LineItemCount.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 155,
+            "modifiedTime": 1520878629040,
+            "changeTime": 1520934292644,
+            "contentHash": "ba574a05b0e7a0b175ea0689db19320117a680f7",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Quote/fields/Name.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Quote/fields/Name.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 146,
+            "modifiedTime": 1520878629040,
+            "changeTime": 1520934292620,
+            "contentHash": "cb911d2a961f77d90710dc5a8e1e98558bf08350",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Quote/fields/OpportunityId.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Quote/fields/OpportunityId.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 185,
+            "modifiedTime": 1520878629041,
+            "changeTime": 1520934292616,
+            "contentHash": "2b6febe1a0cf6537176e073fc66e22eee8bc2b67",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Quote/fields/OwnerId.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Quote/fields/OwnerId.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 173,
+            "modifiedTime": 1520878629041,
+            "changeTime": 1520934292639,
+            "contentHash": "f895cabbc8ee614a8928c6114429e081bf18c95c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Quote/fields/Phone.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Quote/fields/Phone.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 147,
+            "modifiedTime": 1520878629041,
+            "changeTime": 1520934292635,
+            "contentHash": "eabbf2bcaa307da4ad25c34c7f6ba5b7c9597a6c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Quote/fields/QuoteToName.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Quote/fields/QuoteToName.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 153,
+            "modifiedTime": 1520878629041,
+            "changeTime": 1520934292642,
+            "contentHash": "cc4c3a26428f65b2a8267f35d362cf94fc7ed6aa",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Quote/fields/ShippingHandling.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Quote/fields/ShippingHandling.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 158,
+            "modifiedTime": 1520878629042,
+            "changeTime": 1520934292640,
+            "contentHash": "02820843d94920f6c1fb3a649dc1aeab12c1e5e8",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Quote/fields/ShippingName.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Quote/fields/ShippingName.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 154,
+            "modifiedTime": 1520878629042,
+            "changeTime": 1520934292654,
+            "contentHash": "58f0ee117908f61e4aaee2a5d4d833b31d3c8919",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Quote/fields/Status.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Quote/fields/Status.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1520878629043,
+            "changeTime": 1520934292653,
+            "contentHash": "ba1099651173dd4d1a83ef250a6b017c58e39188",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Quote/fields/Subtotal.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Quote/fields/Subtotal.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 150,
+            "modifiedTime": 1520878629043,
+            "changeTime": 1520934292643,
+            "contentHash": "9e7c7347c8b6b0f896bd62b6207d68c63cddfcf8",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Quote/fields/Tax.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Quote/fields/Tax.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 145,
+            "modifiedTime": 1520878629044,
+            "changeTime": 1520934292624,
+            "contentHash": "fe147830e8a96ae45954474da104f8b065c9d9df",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Quote/fields/TotalPrice.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Quote/fields/TotalPrice.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 152,
+            "modifiedTime": 1520878629044,
+            "changeTime": 1520934292625,
+            "contentHash": "aa06683ac2730c73468b20024034ec8731759bc6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Quote/listViews",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Quote/listViews",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1520878629045,
+            "changeTime": 1520934292615,
+            "contentHash": "9b807d1c68d2af94dbdf2ca8e62c031f3ea9bf90",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Quote/listViews/mine.listView-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/Quote/listViews/mine.listView-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 440,
+            "modifiedTime": 1520878629045,
+            "changeTime": 1520934292614,
+            "contentHash": "6fed1cad46cf28968e98b17492085894d684b5d6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/QuoteLineItem",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/QuoteLineItem",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1520878629065,
+            "changeTime": 1520934292695,
+            "contentHash": "ec239cd8a6662012656a1ecbb98028ab7626a8ab",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/QuoteLineItem/QuoteLineItem.object-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/QuoteLineItem/QuoteLineItem.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1085,
+            "modifiedTime": 1520878629065,
+            "changeTime": 1520934292694,
+            "contentHash": "f3d9f489eb1bb8192f79cfa9b64754b46b5e7ec1",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/QuoteLineItem/fields",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/QuoteLineItem/fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 416,
+            "modifiedTime": 1520878629069,
+            "changeTime": 1520934292693,
+            "contentHash": "96bd4577573a18c6d112ff96f1fd08d6f81ed9a6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/QuoteLineItem/fields/Description.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/QuoteLineItem/fields/Description.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 153,
+            "modifiedTime": 1520878629065,
+            "changeTime": 1520934292684,
+            "contentHash": "414587265a2c699d549368921b31b19910ccf5c6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/QuoteLineItem/fields/Discount.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/QuoteLineItem/fields/Discount.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 150,
+            "modifiedTime": 1520878629066,
+            "changeTime": 1520934292693,
+            "contentHash": "5a6b9c77c0da89108d05c3c6e41cbe56b5127c27",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/QuoteLineItem/fields/ListPrice.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/QuoteLineItem/fields/ListPrice.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 151,
+            "modifiedTime": 1520878629066,
+            "changeTime": 1520934292689,
+            "contentHash": "6b7f65265769d828da99c68c292617b2fd033779",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/QuoteLineItem/fields/Product2Id.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/QuoteLineItem/fields/Product2Id.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 176,
+            "modifiedTime": 1520878629066,
+            "changeTime": 1520934292683,
+            "contentHash": "f69dd020b78bf87d78ff93949b2cfa40d79dc874",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/QuoteLineItem/fields/ProductCode.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/QuoteLineItem/fields/ProductCode.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 153,
+            "modifiedTime": 1520878629067,
+            "changeTime": 1520934292685,
+            "contentHash": "05d9f7db6d42a0f4e3e1c5f484603938c18e45de",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/QuoteLineItem/fields/Quantity.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/QuoteLineItem/fields/Quantity.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 150,
+            "modifiedTime": 1520878629067,
+            "changeTime": 1520934292688,
+            "contentHash": "e22808bcf5310509136dc5eea1aa106e23ab5993",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/QuoteLineItem/fields/QuoteId.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/QuoteLineItem/fields/QuoteId.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 179,
+            "modifiedTime": 1520878629067,
+            "changeTime": 1520934292685,
+            "contentHash": "ca99e20eed06fe5d8aab90f32f8c80f39e00c08a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/QuoteLineItem/fields/ServiceDate.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/QuoteLineItem/fields/ServiceDate.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 153,
+            "modifiedTime": 1520878629068,
+            "changeTime": 1520934292686,
+            "contentHash": "9b1636ace540e35f7c91d6705fd5ace315a1c066",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/QuoteLineItem/fields/Subtotal.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/QuoteLineItem/fields/Subtotal.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 150,
+            "modifiedTime": 1520878629068,
+            "changeTime": 1520934292690,
+            "contentHash": "9e7c7347c8b6b0f896bd62b6207d68c63cddfcf8",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/QuoteLineItem/fields/TotalPrice.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/QuoteLineItem/fields/TotalPrice.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 152,
+            "modifiedTime": 1520878629068,
+            "changeTime": 1520934292687,
+            "contentHash": "aa06683ac2730c73468b20024034ec8731759bc6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/QuoteLineItem/fields/UnitPrice.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18/force-app/main/default/objects/QuoteLineItem/fields/UnitPrice.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 151,
+            "modifiedTime": 1520878629069,
+            "changeTime": 1520934292692,
+            "contentHash": "9cba5268d3bcb288cf9c46632e8a7de63a569746",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18",
+        {
+            "state": "n",
+            "sourcePath": "/Users/barryhughes/Documents/Salesforce/Dublin DUG/flow_spring18/dx_project/git/flow-spring18",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 416,
+            "modifiedTime": 1520934297988,
+            "changeTime": 1520934297988,
+            "contentHash": "e03b7ff66f04ddc131eece1475d79792f1c5c45e",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
